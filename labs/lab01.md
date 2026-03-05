@@ -17,6 +17,8 @@ Once you've downloaded Unity Hub, you should open it and install the latest vers
 
 Don't forget to add the Dev Tools, Documentation and the support for your specific platform in order to be able to create builds (executables) of your projects.
 
+Follow [these steps for Visual Studio Code configuration](https://code.visualstudio.com/docs/other/unity):
+
 ## Introduction to Unity 3D
 
 ### Documentation
@@ -62,7 +64,7 @@ challenge.
 Taking into account what you learned in the tutorial, you should create a version of the well-known game "Marble drop" illustrated in the picture below. The game must consist of basic geometric figures and contain a ball that will be thrown at the top of a tilted
 board with pins.
 
-![Marble Drop](imgs/marble_drop.png){width=600}
+![Marble Drop](imgs/marble_drop.png)
 
 When the ball reaches the base, it must be automatically teleported to a random position at the top, where it will be dropped again immediately. There are at least two easy ways to to it:
 
