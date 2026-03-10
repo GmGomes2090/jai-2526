@@ -64,21 +64,73 @@ painting the board would do nicely.
 
 ## Creating a Basic First-Person Shooter
 
-Open Unity Hub and create a new 3D project called **basicFPS**. Download the lab2-urp.unitypackage, go to your Assets section and import it to the project (right click > import package).
+Open Unity Hub and create a new 3D project called **basicFPS**. Download the [lab2-urp.unitypackage](../packages/lab2-urp.unitypackage), go to your Assets section and import it to the project (right click > import package).
 
 Press **Play** to run the game.
-Use the common interface for FPS (WASD+Space+mouse).
+Use the common interface for FPS (**WASD**+**Space**+mouse).
 Use **ESC** to unlock the mouse.
 
 ### Scene Graph
 
+Explore the Assets folders. This scene uses trees from the assetstore (converted to the Universal Rendering Pipeline), originally available here:
+    [https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208](https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208):
+
+- Create an empty GameObject node with additional trees from the BrokenVector folder.
+- Rotate the parent node in the Y axis and observe the position values for each object.
+
+Observe how the red cubes are created using a **prefab**. To create a prefab selec several ojects from the scene and drag them to the Project area:
+
+- Create an additional cube from the prefabs
+- Create another object, change its color with an additional material and convert it to a prefab.
+- Add several objects of the same prefab type to the scene.
+
+The **Main Camera** is currently a child of the **Player** node `[Pos(0,0,0),Rot(0,0,0)]`. This creates the first person shooter effect. Try these:
+
+- Move the camera so that we can see the player from behind, like in 3rd person games.
+- Move the camera to the root of the Scene and point it so that we can see the player and the enemies (thus becoming a regular fixed camera game). Test it!
+- Move the camera back to its original position inside the player’s node `[Pos(0,0,0),Rot(0,0,0)]`.
+
+The texture in the ground uses a black and white PNG file called `ground.png`. The color is given by the Material. Try this:
+
+- Change the texture to another created by you. Change the repetition of the texture.
+
 ### Input: Camera movement
+
+As you can see, the camera is located inside the Player node. The Player can be referenced by name or by or by the tag "Player". Since there is only one player, he is in control of the MainScript. Study the MainScript changing the input variables.
+
+- How are the WASD keys mapped iton the script code? See the [Input System documentation](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.19/manual/index.html). Double click the **Player Input** Component of the Player...
+- Try changing the initial value of Cursor.lockState in the Start method and see what changes.
+<!-- When Locked we have no cursor and the cursor is locket in the middle, no way of clicking on GUI buttons. When Confined, the cursor is visible and we can click on GUI elements. -->
+- Why do we need the Time.deltaTime?
+<!-- It returns the elapsed time since the last Update() cycle. It allows to program rates of change independent of frame rate. -->
+- Try removing the Destroy of the bullets.
+<!-- - Change the default values of the parameters. -->
 
 ### Physics: Shooting Bullets
 
+There are several objects that are affected by physics. These objects have two important
+components: The **Rigidbody** where you can control the physics and add **Contraints**; The **Collider** component defines what volume will be used to detect collisions.
+
+- How are bullets created inside the **MainScript**?
+<!-- Inside the OnAttack() method. -->
+- Why does the player have constraints in the rotation? What happens when we remove
+them?
+<!-- Without the rotation constraints the player will not stand up vertically and fall.-->
+- One of the targets is harder to hit, why?
+<!-- One of the targets has a smaller Capsule Collider. -->
+
 ### State and Basic GUI
 
+The present UI is very basic and should be used mostly for debug purposes. The state of the game is maintained using variables inside the **MainScript**.
+
+- Try adding bullets while the game is running in the **MainScript** component. What happens when you **Stop** the game?
+- Create a toggle that changes a message from “on” to “off” and back when the key ‘O’ is
+pressed.
+
 ### Events and Enemies: Targets
+
+The enemies are controlled using the **TargetBehaviour** script. They have a timed event that is triggered at a fixed time, changing directions and firing a ball in the direction of the object with the tag “Player”. Notice anything strange in the `Update()` method?
+<!-- The enemies movement should have a speed that is independent of the current frame rate. Need to multiply by Time.deltaTime! -->
 
 ## Challenge (1 week)
 
