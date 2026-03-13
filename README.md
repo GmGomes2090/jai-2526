@@ -10,6 +10,7 @@
 | :---: | :---: | :--- |
 | [01](slides/lecture01.pdf) |  27.02 | Course Overview. Evaluation. What is a Game? Video Game Genres. Game Engines. Immersive Environments. Demos. |
 | [02](slides/lecture02.pdf) |  06.03 | Game Design. Conceptualization. Storytelling. Game Mechanics. |
+| [03](slides/lecture03.pdf) |  06.03 | Game Design. Level Design. Interface. Documentation. |
 
 
 
