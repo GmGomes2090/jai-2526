@@ -3,7 +3,7 @@
 - The marble drop game
 - Creating a Basic First-Person Shooter
 
-## The marble drop game
+## 2.1. The marble drop game
 
 Open Unity Hub and create a new 3D project called MarbleDropGame. Download the [marbleDropGame-urp.unitypackage](../packages/MarbleDropGame-urp.unitypackage), go to your Assets section and import it to the project (right click > import package).
 
@@ -14,7 +14,7 @@ scripts to understand how they work and when they are called.
 
 Try to answer the following questions.
 
-### Physics
+### 2.1.1. Physics
 
 - Why is the ball affected by gravity?
 <!-- it contains a Rigigbody component with mass and it is set to "Use Gravity" -->
@@ -25,7 +25,7 @@ Try to answer the following questions.
 - How does the ball reset?
 <!-- Through the ResetState() method that places the ball in the original position. It gets called when a collision between the ball and the Slot prefab is detected. -->
 
-### Scene Graph
+### 2.1.2. Scene Graph
 
 - Where and how are the table pins created? Can you have a board with a different number of pins easily?
 <!-- The pins are created inside the TableScript. Yes, the number of pins can be easily changed. The number of pins is controlled by the public variables Rows and Columns.-->
@@ -35,7 +35,7 @@ Try to answer the following questions.
 common different value and see what happens when you run the game.
 <!-- The table size is extracted from the Meshilter component of the "Back" object. This object provided access to the mesh, its bounds and size (dimensions). -->
 
-### Game Mechanics
+### 2.1.3. Game Mechanics
 
 - What mechanism has been used to collect points?
 <!-- Points are collected when the ball "collides" with a Slot prefab Sphere Collider. The Slot Sphere Collider is marked as "Is Trigger". When a collision starts, the OnTriggerEnter() method gets called for the object marked with "Is Trigger". The code can be found in the script assigned to the Slot Prefab (Slot Script) -->
@@ -48,7 +48,7 @@ common different value and see what happens when you run the game.
 - Press **Play**. Now press the **Stats** button on the top right corner of the **Game** Window. How many triangles are in the scene?
 <!-- There are around 23k triangles and 27.8 vertices. -->
 
-## Suggestions for improvement:
+### 2.1.4. Suggestions for improvement:
 -  The score is kind of buggy. When a ball bounces in a slot it may collect points more than
 once. Why does it happen? Devise and implement a solution to solve this problem.
 - Create a ball that is around 70% of the separation between adjacent pins
@@ -62,7 +62,7 @@ shake the board.
 painting the board would do nicely.
 - Let’s have a finite number of ball tries per game.
 
-## Creating a Basic First-Person Shooter
+## 2.2. Creating a Basic First-Person Shooter
 
 Open Unity Hub and create a new 3D project called **basicFPS**. Download the [lab2-urp.unitypackage](../packages/lab2-urp.unitypackage), go to your Assets section and import it to the project (right click > import package).
 
@@ -70,7 +70,7 @@ Press **Play** to run the game.
 Use the common interface for FPS (**WASD**+**Space**+mouse).
 Use **ESC** to unlock the mouse.
 
-### Scene Graph
+### 2.2.1. Scene Graph
 
 Explore the Assets folders. This scene uses trees from the assetstore (converted to the Universal Rendering Pipeline), originally available here:
     [https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208](https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208):
@@ -94,7 +94,7 @@ The texture in the ground uses a black and white PNG file called `ground.png`. T
 
 - Change the texture to another created by you. Change the repetition of the texture.
 
-### Input: Camera movement
+### 2.2.2. Input: Camera movement
 
 As you can see, the camera is located inside the Player node. The Player can be referenced by name or by or by the tag "Player". Since there is only one player, he is in control of the MainScript. Study the MainScript changing the input variables.
 
@@ -106,7 +106,7 @@ As you can see, the camera is located inside the Player node. The Player can be 
 - Try removing the Destroy of the bullets.
 <!-- - Change the default values of the parameters. -->
 
-### Physics: Shooting Bullets
+### 2.2.3. Physics: Shooting Bullets
 
 There are several objects that are affected by physics. These objects have two important
 components: The **Rigidbody** where you can control the physics and add **Contraints**; The **Collider** component defines what volume will be used to detect collisions.
@@ -119,7 +119,7 @@ them?
 - One of the targets is harder to hit, why?
 <!-- One of the targets has a smaller Capsule Collider. -->
 
-### State and Basic GUI
+### 2.2.4. State and Basic GUI
 
 The present UI is very basic and should be used mostly for debug purposes. The state of the game is maintained using variables inside the **MainScript**.
 
@@ -127,12 +127,12 @@ The present UI is very basic and should be used mostly for debug purposes. The s
 - Create a toggle that changes a message from “on” to “off” and back when the key ‘O’ is
 pressed.
 
-### Events and Enemies: Targets
+### 2.2.5. Events and Enemies: Targets
 
 The enemies are controlled using the **TargetBehaviour** script. They have a timed event that is triggered at a fixed time, changing directions and firing a ball in the direction of the object with the tag “Player”. Notice anything strange in the `Update()` method?
 <!-- The enemies movement should have a speed that is independent of the current frame rate. Need to multiply by Time.deltaTime! -->
 
-## Challenge (1 week)
+### 2.2.6. Challenge (1 week)
 
 Create an improved version of the basicFPS game with:
 - Better graphics
