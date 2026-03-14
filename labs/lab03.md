@@ -101,5 +101,51 @@ Additional Videos:
 
 ## 3.5. Other topics
 
+### 3.5.1. 2D Games
+
+When creating 2D games take into account how to create **Sprites**, **Orthographic Cameras**, **2D colliders** and **2D rays**.
+
+Additional Videos:
+
+- [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ)
+
+### 3.5.2. Character Control
+
+There are specialized controls for characters:
+
+- [How to Move Characters in Unity 3D: Built-In Character Controller Explained [#1]](https://www.youtube.com/watch?v=UUJMGQTT5ts)
+
+## 3.5.2. Coroutines
+
+Coroutines are pieces of code that run between the execution of frames. They are ideal to run heavy code that would otherwise block the game if it was executed in the rendering update function. They are usually used for AI, routing objects, network communications and all heavy duty processes that we want to run in the background. They are not separate threads, Unity uses a different mechanism to detect idle moments and run the coroutines when it can.
+
+Additional Videos:
+
+- [Introduction to Game Development (E21: coroutines)](https://www.youtube.com/watch?v=Eq6rCCO2EU0)
+
+### 3.5.3. Multimedia Assets
+
+Known free content websites:
+- [Sprites](https://www.spriters-resource.com/)
+- [2D Assets](https://itch.io/game-assets/free)
+- [SFX](https://freesound.org/)
+- [All of the above](https://opengameart.org/)
+
 ## 3.6. Using GIT and Unity
 
+
+If you already have an existing Unity Project:
+
+- Open a terminal window / cmd line
+- Change directory to the Unity project's folder
+- type git init .
+- Download [this file](https://github.com/github/gitignore/blob/master/Unity.gitignore) and rename it to .gitignore. Yes, it only has an exension.
+- Go to your favourite git cloud provider (github, gitlab, ...)
+- Create a new repository completely empty.
+- Follow the instructions on how to push an existing local repository to your cloud repo. For github it should be something like:
+
+```
+git remote add origin <repository-url>
+git branch -M main
+git push -u origin main
+```
