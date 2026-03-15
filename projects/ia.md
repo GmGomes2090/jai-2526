@@ -26,7 +26,7 @@ The evaluation is decomposed into:
 - Program shortcut keys (1,2,3,4…) to facilitate the final discussion of the assignment by jumping to predefined locations and states.
 Full score is given if you illustrate each point significantly (more than once).
 
-## Delivery (March 29)
+## Delivery (March 29, 23h59)
 
 There are two major deliverables:
 
