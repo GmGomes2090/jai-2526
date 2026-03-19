@@ -35,4 +35,20 @@ There are two major deliverables:
 
 For the actual submission you will need to provide a Game Title, the repository url, a list of external addons and assets used and the video url.
 
+## How to connect your empty Unity Project to your repository
+
+First, create a new Unity Project using the template "Core Universal 3D" in some location of your choice.
+
+Now do this:
+
+- Launch a terminal window
+- Change directory to the Unity Project location you just created
+- type the following commands:
+    - `$ git init .`
+    - `$ git remote add origin <your_assignment_repository_url>`
+    - `$ git pull origin main`
+    - `$ git add .`
+    - `$ git commit -m "Added Initial Unity project."`
+    - `$ git git push --set-upstream origin main`
+
 Have fun!
