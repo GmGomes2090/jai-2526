@@ -12,7 +12,7 @@
 | [02](slides/lecture02.pdf) |  06.03 | Game Design. Conceptualization. Storytelling. Game Mechanics. |
 | [03](slides/lecture03.pdf) |  13.03 | Game Design. Level Design. Interface. Documentation. |
 | -- |  20.03 | Lecture Postponed. |
-| [04](slides/lecture04.pdf) |  27.03 | Procedural Content Generation. |
+| [04](slides/lecture04.pdf) |  27.03 | Procedural Content Generation. L-Systems. Iterated Function Systems. Wave Function Collapse. Perlin Noise. Binary Space Partitions. Cellular Automata. Random Walk. |
 
 
 
