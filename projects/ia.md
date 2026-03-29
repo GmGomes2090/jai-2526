@@ -35,6 +35,10 @@ There are two major deliverables:
 
 For the actual submission you will need to provide a Game Title, the repository url, a list of external addons and assets used and the video url.
 
+Please use this google form and login using your @campus.fct.unl.pt account:
+
+Submission forml: [https://forms.gle/A5QdFrFBLpsQSpwC7](https://forms.gle/A5QdFrFBLpsQSpwC7).
+
 ## How to connect your empty Unity Project to your repository
 
 First, create a new Unity Project using the template "Core Universal 3D" in some location of your choice.
