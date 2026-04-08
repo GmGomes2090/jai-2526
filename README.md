@@ -4,7 +4,15 @@
 
 - March 4: Repository online.
 - April 8: Peer evaluation of individual projects are opened until April 19th, 23h59.
+- April 8: [Groups Registration Form](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=sDBSx7) is now open until Wednesday, April 15.
 
+## Important Dates
+
+- [Individual Assignment](./projects/ia.md): due on March 29, 23h59.
+- Midterm 1: April 21, 18h30.
+- Group Assignment (Game Design Document): due on April 26, 23h59.
+- Midterm 2: June 6, 9h30.
+- Group Assignment (Final commit, video and report)
 ## Lectures
 
 | Lecture | Date | Summary |
