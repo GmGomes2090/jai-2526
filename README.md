@@ -10,7 +10,7 @@
 
 - [Individual Assignment](./projects/ia.md): due on March 29, 23h59.
 - Midterm 1: April 21, 18h30.
-- Group Assignment (Game Design Document): due on April 26, 23h59.
+- [Group Assignment (Game Concept and Proposal)](./projects/ga.md): due on April 26, 23h59.
 - Midterm 2: June 6, 9h30.
 - Group Assignment (Final commit, video and report)
 ## Lectures
