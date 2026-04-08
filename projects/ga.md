@@ -27,9 +27,9 @@ gameplay. Games should be different from the ones programmed in the Individual A
 The development of the game should be divided into 3 stages: Concept/Proposal, Development
 and Final Presentation.
 
-One of the group members should create a repository in [LINK TO GITHUB CLASSROOM MISSING HERE](https://classroom.github.com/), and invite the remaining members to it.
+One of the group members should create a team in [Github Classroom](https://classroom.github.com/a/qdTWIc9K), and invite the remaining members to it.
 
-**IMPORTANT**: Change the repository name to ga-P1-NN, where P1 is your lab slot, and NN is your group number, as registered here: [LIST OF TEAMS TO BE ANNOUNCED SOON](http://www.disney.com).
+**IMPORTANT**: Change the repository name to ga-P1-NN, where P1 is your lab slot, and NN is your group number, as registered here: [Team registation form](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=FdKYn1).
 
 **The number of commits and the respective owners of the repository will be monitored. Start using the repository from day 1!**
 
@@ -71,3 +71,15 @@ You can add annexes with listings of characters, concept art, drawings, screensh
 This is a tentative analysis, we accept some deviations in the final game. 
 
 **Failure to deliver a complete Concept and Proposal Document** will result in a **penalty of 4 points in the final group assignment score** (classified from 0 to 20)
+
+## Part 2: Game Development
+
+(place holder)
+
+## Part 3: Game Design Document
+
+(place holder)
+
+## Part 4: Final Presentation
+
+(place holder)
