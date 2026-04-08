@@ -5,7 +5,7 @@
 Please [register your team here](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=FdKYn1) until Wednesday, April 15.
 ## Objectives
 
-- [Propose and develop a game](#Part-1:-Concept-and-Proposal).
+- [Propose and develop a game](#Part-1:-Concept-and-Proposal). [due on April 26, 23h59.]
 - Develop the concept of the game and develop it, in teams of 3.
 - Submit your game and final documentation.
 - Present your game before your peers.
