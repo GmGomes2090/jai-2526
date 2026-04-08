@@ -3,6 +3,7 @@
 ## News
 
 - March 4: Repository online.
+- April 8: Peer evaluation of individual projects are opened until April 19th, 23h59.
 
 ## Lectures
 
@@ -29,6 +30,7 @@
 ## Projects
 
 - [Project 1 (Individual Assignment)](./projects/ia.md)
+- [Project 1 (Peer Evaluation Instructions)](./projects/ia_peer_evaluation.md)
 
 <!--
 ## Resources 
