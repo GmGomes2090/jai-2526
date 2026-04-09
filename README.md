@@ -39,7 +39,7 @@
 ## Projects
 
 - [Project 1 (Individual Assignment)](./projects/ia.md)
-- [Project 1 (Peer Evaluation Instructions)](./projects/ia_peer_evaluation.md)
+- [Project 1 (Peer Evaluation Instructions)](./projects/ia_peer_evaluation_instructions.md)
 
 <!--
 ## Resources 
