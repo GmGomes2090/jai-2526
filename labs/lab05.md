@@ -16,3 +16,23 @@ There are three packages for you to explore:
 - [Cellular Automata Demo Scene](../packages/cellular-automata-demo-scene.unitypackage)
 
 Proceed as normal and import each package into its own project (Use 3D URP Core template).
+
+### Perlin Noise
+
+Proposed Ideas:
+
+- Use different scales along each axis for Perlin noise and play with that in the Textures Demo Scene.
+
+### L-Systems Generator
+
+Proposed Ideas:
+
+- Create other well known L-system shapes.
+- Create a real 3D plant.
+- Each Symbol rewriting rule has an associated probability. If you have more than one rule for the same symbol, you can create stochastic L-Systems by assigning them with different probabilities. Play with stochastic L-Systems.
+
+### Cellular Automata
+
+Proposed Ideas:
+
+- Adapt the generator to produce real walls and floor instead of a texture. You can mix with low frequency Perlin noise to partition your dungeon into different zones (as similar to biomes) and use different building blocks for your dungeon walls.

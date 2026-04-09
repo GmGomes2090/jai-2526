@@ -34,6 +34,7 @@
 | [02](labs/lab02.md) | 12.03 | The marble drop game. Creating a Basic First-Person Shooter |
 | [03](labs/lab03.md) | 19.03 | Individual Assignment presentation. Lerp, Animation, Collisions, Audio, Raycasting. Using GIT and Unity |
 | [04](labs/lab04.md) | 26.03 | Individual Assignment support. Q&A. |
+| [05](labs/lab05.md) | 09.04 | Group Assignment Quickoff. Procedural Content Generation Sample Scenes. |
 
 ## Projects
 
