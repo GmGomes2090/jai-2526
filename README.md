@@ -3,16 +3,18 @@
 ## News
 
 - March 4: Repository online.
-- April 8: Peer evaluation of individual projects are opened until April 19th, 23h59.
-- April 8: [Groups Registration Form](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=sDBSx7) is now open until Wednesday, April 15.
+- April 8: Peer evaluations of individual projects are opened until April 19th, 23h59.
+- April 8: [Groups Registration Form](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=sDBSx7) or Group Assignment is now open until Wednesday, April 15.
 
 ## Important Dates
 
-- [Individual Assignment](./projects/ia.md): due on March 29, 23h59.
-- Midterm 1: April 21, 18h30.
-- [Group Assignment (Game Concept and Proposal)](./projects/ga.md): due on April 26, 23h59.
-- Midterm 2: June 6, 9h30.
-- Group Assignment (Final commit, video and report)
+- [x] March 29, 23h59 - [Individual Assignment](./projects/ia.md).
+- [ ] April 15, 23h50 - [Register Teams for Group Assignment](./projects/ga.md##Teams_Registration)
+- [ ] April 19, 23h59 - Complete [Individual Assignment Peer Evaluation](./projects/ia_peer_evaluation_instructions.md).
+- [ ] April 21, 18h30 - Midterm 1.
+- [ ] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
+- [ ] June 6, 9h30 - Midterm 2.
+- [ ] Date TBA - Group Assignment (Final commit, video and report)
 ## Lectures
 
 | Lecture | Date | Summary |
@@ -22,6 +24,7 @@
 | [03](slides/lecture03.pdf) |  13.03 | Game Design. Level Design. Interface. Documentation. |
 | -- |  20.03 | Lecture Postponed. |
 | [04](slides/lecture04.pdf) |  27.03 | Procedural Content Generation. L-Systems. Iterated Function Systems. Wave Function Collapse. Perlin Noise. Binary Space Partitions. Cellular Automata. Random Walk. |
+| [05](slides/lecture05.pdf) |  27.03 | Simulation. Physics-Based Simulation. Particles Systems. Particle Systems Simulation. Integration Methods. |
 
 
 
