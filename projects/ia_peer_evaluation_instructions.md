@@ -3,12 +3,12 @@
 Each student is required to evaluate 8 individual assignments and rank them from worst (1) to best (8), through the respective video and taking into account the rules contained in the statement (duration and content).
 
 Whenever possible, emphasis should be placed on the elemental tetrad of game design:
- – Aesthetics
- - Mechanics
- - History
- - Technology 
+- Aesthetics
+- Mechanics
+- History
+- Technology 
  
- Worse aesthetics but with own assets should be valued whenever this is mentioned. Evaluate how you would like to be evaluated. 
+Worse aesthetics but with own assets should be valued whenever this is mentioned. Evaluate how you would like to be evaluated. 
 
 The assignments are contained in this document and are grouped by student evaluator. Each video has an assigned number with a link. The evaluation consists of ordering the videos from 1 to 8 (1  being worst and 8 being best).
 

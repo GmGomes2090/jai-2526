@@ -3,6 +3,9 @@
 ## Teams Registration
 
 Please [register your team here](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=FdKYn1) until Wednesday, April 15.
+
+**Note**: to help you reaching out to your mates I have setup a discord group with a forum to do just that: [https://discord.gg/CGFFHNkr](https://discord.gg/CGFFHNkr).
+
 ## Objectives
 
 - [Propose and develop a game](#Part-1:-Concept-and-Proposal). [due on April 26, 23h59.]

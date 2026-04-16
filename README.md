@@ -38,6 +38,7 @@
 | [03](labs/lab03.md) | 19.03 | Individual Assignment presentation. Lerp, Animation, Collisions, Audio, Raycasting. Using GIT and Unity |
 | [04](labs/lab04.md) | 26.03 | Individual Assignment support. Q&A. |
 | [05](labs/lab05.md) | 09.04 | Group Assignment Quickoff. Procedural Content Generation Sample Scenes. |
+| [06](labs/lab06.md) | 16.04 | Finish Groups Formation. Complete IA Peer Evaluation. |
 
 ## Projects
 
