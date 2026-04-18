@@ -5,11 +5,12 @@
 - March 4: Repository online.
 - April 8: Peer evaluations of individual projects are opened until April 19th, 23h59.
 - April 8: [Groups Registration Form](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=sDBSx7) or Group Assignment is now open until Wednesday, April 15.
+- April 18: Added folder with previous midterms.
 
 ## Important Dates
 
 - [x] March 29, 23h59 - [Individual Assignment](./projects/ia.md).
-- [ ] April 15, 23h50 - [Register Teams for Group Assignment](./projects/ga.md##Teams_Registration)
+- [x] April 15, 23h50 - [Register Teams for Group Assignment](./projects/ga.md##Teams_Registration)
 - [ ] April 19, 23h59 - Complete [Individual Assignment Peer Evaluation](./projects/ia_peer_evaluation_instructions.md).
 - [ ] April 21, 18h30 - Midterm 1.
 - [ ] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
@@ -44,6 +45,10 @@
 
 - [Project 1 (Individual Assignment)](./projects/ia.md)
 - [Project 1 (Peer Evaluation Instructions)](./projects/ia_peer_evaluation_instructions.md)
+
+## Previous Tests/Exams
+
+See the [tests](./tests/) for previous tests and exams.
 
 <!--
 ## Resources 
