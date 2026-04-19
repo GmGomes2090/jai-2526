@@ -1,5 +1,9 @@
 # Games and Immersive Environments 2025/2026
 
+## Important
+
+- Midterm 1 will focus on all lectures (1 to 6), excluding the collision detection section on lecture06.pdf.
+
 ## News
 
 - March 4: Repository online.
@@ -48,7 +52,7 @@
 
 ## Previous Tests/Exams
 
-See the [tests](./tests/) for previous tests and exams.
+See the [tests](./tests/tests.md) for previous tests and exams.
 
 <!--
 ## Resources 
