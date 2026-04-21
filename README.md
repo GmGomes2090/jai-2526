@@ -15,7 +15,7 @@
 
 - [x] March 29, 23h59 - [Individual Assignment](./projects/ia.md).
 - [x] April 15, 23h50 - [Register Teams for Group Assignment](./projects/ga.md##Teams_Registration)
-- [ ] April 19, 23h59 - Complete [Individual Assignment Peer Evaluation](./projects/ia_peer_evaluation_instructions.md).
+- [x] April 19, 23h59 - Complete [Individual Assignment Peer Evaluation](./projects/ia_peer_evaluation_instructions.md).
 - [ ] April 21, 18h30 - Midterm 1.
 - [ ] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
 - [ ] June 6, 9h30 - Midterm 2.
@@ -30,7 +30,7 @@
 | -- |  20.03 | Lecture Postponed. |
 | [04](slides/lecture04.pdf) |  27.03 | Procedural Content Generation. L-Systems. Iterated Function Systems. Wave Function Collapse. Perlin Noise. Binary Space Partitions. Cellular Automata. Random Walk. |
 | [05](slides/lecture05.pdf) |  03.04 | Simulation. Physics-Based Simulation. Particles Systems. Particle Systems Simulation. Integration Methods. |
-| [05](slides/lecture06.pdf) |  10.04 | Simulation. Rigid-Bodies. Collision Detection and Response. |
+| [06](slides/lecture06.pdf) |  10.04 | Simulation. Rigid-Bodies. Collision Detection and Response. |
 
 
 
