@@ -16,7 +16,7 @@
 - [x] March 29, 23h59 - [Individual Assignment](./projects/ia.md).
 - [x] April 15, 23h50 - [Register Teams for Group Assignment](./projects/ga.md##Teams_Registration)
 - [x] April 19, 23h59 - Complete [Individual Assignment Peer Evaluation](./projects/ia_peer_evaluation_instructions.md).
-- [ ] April 21, 18h30 - Midterm 1.
+- [x] April 21, 18h30 - Midterm 1.
 - [ ] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
 - [ ] June 6, 9h30 - Midterm 2.
 - [ ] Date TBA - Group Assignment (Final commit, video and report)
@@ -45,6 +45,8 @@
 | [04](labs/lab04.md) | 26.03 | Individual Assignment support. Q&A. |
 | [05](labs/lab05.md) | 09.04 | Group Assignment Quickoff. Procedural Content Generation Sample Scenes. |
 | [06](labs/lab06.md) | 16.04 | Finish Groups Formation. Complete IA Peer Evaluation. |
+| [07](labs/lab07.md) | 16.04 | Group Assignment Proposals discussions. Team appointments schedule setup. Additional examples |
+
 
 ## Projects
 
