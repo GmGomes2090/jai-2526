@@ -19,7 +19,9 @@
 - [x] April 21, 18h30 - Midterm 1.
 - [ ] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
 - [ ] June 6, 9h30 - Midterm 2.
-- [ ] Date TBA - Group Assignment (Final commit, video and report)
+- [ ] June 8, 23h59 - Group Assignment (Final commit, video and report)
+- [ ] June 11 or 12 (TBA), Public Final Game Presentations.
+
 ## Lectures
 
 | Lecture | Date | Summary |
