@@ -36,7 +36,7 @@ One of the group members should create a team in [Github Classroom](https://clas
 
 **The number of commits and the respective owners of the repository will be monitored. Start using the repository from day 1!**
 
-## Part 1: Concept and Proposal (max 3 pages)
+## Part 1: Concept and Proposal (max 3 pages).
 
 In this first part of the project, each team should submit one pdf document (use letter size 11) containing the
 Concept and the Proposal for the game. Be creative, use the space of the A4 sheet wisely!
@@ -60,7 +60,7 @@ Concept and the Proposal for the game. Be creative, use the space of the A4 shee
 - Story Synopsis, Backstory, Characters.
 - Gameplay and main Mechanics.
 - Technology/Libraries/Algorithms.
-  - Main Components (Diagram, see Theory Class 2 pp.73).
+  - Main Components
 - Art and Audio Features, Concept Art example.
 - Production Details:
   - Team: list members
@@ -71,18 +71,86 @@ Concept and the Proposal for the game. Be creative, use the space of the A4 shee
 
 You can add annexes with listings of characters, concept art, drawings, screenshots or schematics (not mandatory).
 
-This is a tentative analysis, we accept some deviations in the final game. 
+This is a tentative analysis, we accept some deviations in the final game. Grading for document is included in [Part 3](./ga.md#part-3-game-design-document-4-points).
 
 **Failure to deliver a complete Concept and Proposal Document** will result in a **penalty of 4 points in the final group assignment score** (classified from 0 to 20)
 
-## Part 2: Game Development
+## Part 2: Game Development [14 points]
+
+Code is delivered in the repository:
+- Final commit by June 8 until 23h259
+
+The game should be a desktop game using Unity. Any deviation from this should have a strong justification and should be discussed with the professors. The group should have at least two follow-up conversations with the professors in the practical classes, with all the team members, as per the schedule publised in [lab07](../labs/lab07).
+
+The game will be evaluated according to the following criteria:
+
+- [**6 Points**] **Storytelling + Game Mechanics + Aesthetics** (a fraction of this grade will depend on peer voting)
+    - Storytelling: The story should make sense; the goals are clear and the game characters
+support the narrative.
+    - Game Mechanics: the game should have enough different things that the player can do.
+The gameplay should be natural and the mechanics original.
+        - Intuitive: Didn’t need to ask for help or completed the tutorial easily.
+        - Original: I’ve never seen this.
+        - Balance: Have a good balance between complexity and reward.
+        - Diversity: Having a complete set of simple and complex tasks.
+        - Responsiveness: The elements react and animate accordingly.
+    - Aesthetics: The game has a finished and polished look. The interface supports the
+game. Assets (Meshes, textures, audio) created by the team will be valorized. The game
+looks support the gameplay and story. The gameplay is visually compelling and
+enjoyable.
+
+- [**0 points**] Mandatory Elements (1 point penalty for each feature not implemented)
+    - Cheat mode to jump to interesting evaluation points using keys 1, 2, 3, 4 or M, N,
+B, V etc.
+    - ‘U’ key will toggle a free moving camera with mouse and WASD controls.
+    - ‘P’ key will pause the game (stop every animation) but still allow you to freely
+explore with the camera with ‘U’.
+    Toggle frames per second using ‘I’ key
+
+- [**8 points**] **Technology**: the game should make use of interesting algorithms and fully explore
+the capabilities of the game engine.
+
+  The following lists can be expanded with more ideas after an initial iteration with the
+professors:
+
+
+
+  - [**4 points**] Using plugins or of-the-shelf techniques (**1 point each**):
+      - Dynamic lights and shadows (not baked)
+      - Environmental/reflection maps.
+      - Bump/Normal maps.
+      - Effects with Unity particle systems
+      - Shader graph to create special effects on vertices or surfaces
+      - Levels of detail/LOD Group
+      - Animator controllers
+      - PBR Material
+      - Multiple Raycasting
+      - Cinemachine
+      - Mixamo
+      - CharacteNavMesh
+      - NavMesh
+      - complex colliders
+      - etc.
+  - [**4 Points**] Research and Implementation of Advanced Features. The game should make use of interesting algorithms and fully explore the capabilities of the game engine. You should research, explore and fully implement advanced techniques and algorithms without, or minimizing, the use of external plugins. The researched techniques should be discussed with the professor from the practical classes. Examples of custom made programmed techniques (**2 points each**):
+
+      - Procedural content generation (terrain, vegetation,buildings, level) with a set of expressive and complex rules (cannot be a randomly generated terrain).
+      - Procedural content generation: Wave Function Collapse, Perlin Noise, etc. You should be able to show diversity of the generated content.
+      - Using A* algorithm.
+      - Mesh creation and simulation from GIS data.
+      - Multiplayer support: UNet, Photon or Mirror.
+      - Procedural-Generation of audio (Change bit samples by procedurally manuplating them using rules).
+      - Complex Physics simulation, preferably on the GPU using compute shaders.
+      - AR or VR complex interaction.
+      - Shader effects or Compute Shaders for Simulations such as Particle Systems, Fluids, Flow Simulations.
+      - Implement Planar Reflections correctly.
+
+**Important Note**:
+Each group should program the game using the assigned GIT repository. There should be enough commits from each of the team members. The correct submission of everything is very important. Failing to comply with the submission rules or low participation in the team could result in an **individual penalty of up to 6 points**. Additionally, all students should follow the rules according to the Department’s Code of Ethics document.
+
+## Part 3: Game Design Document [4 Points]
 
 (place holder)
 
-## Part 3: Game Design Document
-
-(place holder)
-
-## Part 4: Final Presentation
+## Part 4: Final Presentation [2 Points]
 
 (place holder)

@@ -10,6 +10,7 @@
 - April 8: Peer evaluations of individual projects are opened until April 19th, 23h59.
 - April 8: [Groups Registration Form](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=sDBSx7) or Group Assignment is now open until Wednesday, April 15.
 - April 18: Added folder with previous midterms.
+- April 23: Added samples of previous year [Game Concept and Proposals](./ga-samples/). Updated [Group Assignment description](./projects/ga.md).
 
 ## Important Dates
 
