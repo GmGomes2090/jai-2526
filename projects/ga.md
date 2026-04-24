@@ -2,7 +2,7 @@
 
 ## Teams Registration
 
-Please [register your team here](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=FdKYn1) until Wednesday, April 15.
+Please [register your team here](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=FdKYn1) until Wednesday, April 15. [**CLOSED**]
 
 **Note**: to help you reaching out to your mates I have setup a discord group with a forum to do just that: [https://discord.gg/CGFFHNkr](https://discord.gg/CGFFHNkr).
 
@@ -71,16 +71,19 @@ Concept and the Proposal for the game. Be creative, use the space of the A4 shee
 
 You can add annexes with listings of characters, concept art, drawings, screenshots or schematics (not mandatory).
 
-This is a tentative analysis, we accept some deviations in the final game. Grading for document is included in [Part 3](./ga.md#part-3-game-design-document-4-points).
+This is a tentative analysis, we accept some deviations in the final game. Grading for this document is included in the evaluation of its final and updated version in [Part 3](./ga.md#part-3-game-design-document-4-points).
 
-**Failure to deliver a complete Concept and Proposal Document** will result in a **penalty of 4 points in the final group assignment score** (classified from 0 to 20)
+You can [see here](../ga-samples) some samples from last year (randomly chosen).
+
+**Failure to deliver a complete Concept and Proposal Document** will result in a **penalty of 4 points in the final group assignment score**
 
 ## Part 2: Game Development [14 points]
 
 Code is delivered in the repository:
 - Final commit by June 8 until 23h259
+- Video and Build links as well as Final Game Design Document to be submitted around the same date.
 
-The game should be a desktop game using Unity. Any deviation from this should have a strong justification and should be discussed with the professors. The group should have at least two follow-up conversations with the professors in the practical classes, with all the team members, as per the schedule publised in [lab07](../labs/lab07).
+The game should be a desktop game using Unity. Any deviation from this should have a strong justification and should be discussed with the professors. The group should have at least two follow-up conversations with the professors in the practical classes, with all the team members, as per the schedule published in [lab07](../labs/lab07.md).
 
 The game will be evaluated according to the following criteria:
 
