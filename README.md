@@ -34,6 +34,7 @@
 | [04](slides/lecture04.pdf) |  27.03 | Procedural Content Generation. L-Systems. Iterated Function Systems. Wave Function Collapse. Perlin Noise. Binary Space Partitions. Cellular Automata. Random Walk. |
 | [05](slides/lecture05.pdf) |  03.04 | Simulation. Physics-Based Simulation. Particles Systems. Particle Systems Simulation. Integration Methods. |
 | [06](slides/lecture06.pdf) |  10.04 | Simulation. Rigid-Bodies. Collision Detection and Response. |
+| [07](slides/lecture07.pdf) |  24.04 | Mixed Reality Concepts, VR, AR, History. |
 
 
 
