@@ -6,6 +6,7 @@ Please [register your team here](https://unlpt-my.sharepoint.com/:x:/g/personal/
 
 **Note**: to help you reaching out to your mates I have setup a discord group with a forum to do just that: [https://discord.gg/CGFFHNkr](https://discord.gg/CGFFHNkr).
 
+**Deliver your Concept and Proposal**: Add your documento to your repository. Add a 
 ## Objectives
 
 - [Propose and develop a game](#Part-1:-Concept-and-Proposal). [due on April 26, 23h59.]
