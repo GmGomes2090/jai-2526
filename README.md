@@ -18,7 +18,7 @@
 - [x] April 15, 23h50 - [Register Teams for Group Assignment](./projects/ga.md##Teams_Registration)
 - [x] April 19, 23h59 - Complete [Individual Assignment Peer Evaluation](./projects/ia_peer_evaluation_instructions.md).
 - [x] April 21, 18h30 - Midterm 1.
-- [ ] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
+- [x] April 26, 23h59 - [Group Assignment (Game Concept and Proposal)](./projects/ga.md).
 - [ ] June 6, 9h30 - Midterm 2.
 - [ ] June 8, 23h59 - Group Assignment (Final commit, video and report)
 - [ ] June 11 or 12 (TBA), Public Final Game Presentations.
@@ -36,6 +36,7 @@
 | [06](slides/lecture06.pdf) |  10.04 | Simulation. Particle Sytems. |
 | [06](slides/lecture06.pdf) |  17.04 | Simulation. Integration Methods. Rigid-Bodies. |
 | [07](slides/lecture07.pdf) |  24.04 | Mixed Reality Concepts, VR, AR, History. |
+| [08](slides/lecture07.pdf) |  28.04 | Mixed Reality Concepts, VR, AR, History. (contined). VR/AR Live Demo. |
 
 
 
