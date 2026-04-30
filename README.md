@@ -51,7 +51,8 @@
 | [04](labs/lab04.md) | 26.03 | Individual Assignment support. Q&A. |
 | [05](labs/lab05.md) | 09.04 | Group Assignment Quickoff. Procedural Content Generation Sample Scenes. |
 | [06](labs/lab06.md) | 16.04 | Finish Groups Formation. Complete IA Peer Evaluation. |
-| [07](labs/lab07.md) | 16.04 | Group Assignment Proposals discussions. Team appointments schedule setup. Additional examples |
+| [07](labs/lab07.md) | 23.04 | Group Assignment Proposals discussions. Team appointments schedule setup. Additional examples |
+| [08] (labs/lab08.md) | 30.04 | Meetings with teams 01, 02, 03 and 04. |
 
 
 ## Projects
