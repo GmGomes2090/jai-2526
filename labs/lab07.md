@@ -172,7 +172,7 @@ Considering the following teams for the group assigment, we need to setup regula
 			<td>75644</td>
 			<td>Rodrigo Cardoso Correia Marques Baptista</td>
 		</tr>
-	</tbody>
+	</tbody>	
 </table>
 
 The **Group meetings schedule** is the following:

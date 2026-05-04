@@ -11,6 +11,7 @@
 - April 8: [Groups Registration Form](https://unlpt-my.sharepoint.com/:x:/g/personal/fpb_fct_unl_pt/IQAy1msBH4DaTKuH7QATbkXlAUF3o05Sxr45anFwQ0u5eao?e=sDBSx7) or Group Assignment is now open until Wednesday, April 15.
 - April 18: Added folder with previous midterms.
 - April 23: Added samples of previous year [Game Concept and Proposals](./ga-samples/). Updated [Group Assignment description](./projects/ga.md).
+- May 4: Added [results](./README.md#grades) from Midterm 1.
 
 ## Important Dates
 
@@ -52,13 +53,22 @@
 | [05](labs/lab05.md) | 09.04 | Group Assignment Quickoff. Procedural Content Generation Sample Scenes. |
 | [06](labs/lab06.md) | 16.04 | Finish Groups Formation. Complete IA Peer Evaluation. |
 | [07](labs/lab07.md) | 23.04 | Group Assignment Proposals discussions. Team appointments schedule setup. Additional examples |
-| [08] (labs/lab08.md) | 30.04 | Meetings with teams 01, 02, 03 and 04. |
+| [08](labs/lab08.md) | 30.04 | Meetings with teams 01, 02, 03 and 04. |
+| [09](labs/lab09.md) | 07.05 | Meetings with teams 05, 06, 07 and 08. |
+| [10](labs/lab10.md) | 14.05 | Meetings with teams 01, 02, 09 and 10. |
+| [11](labs/lab11.md) | 21.05 | Meetings with teams 03, 04, 05 and 06. |
+| [12](labs/lab12.md) | 28.05 | Meetings with teams 07, 08, 09 and 10. |
+
 
 
 ## Projects
 
 - [Project 1 (Individual Assignment)](./projects/ia.md)
 - [Project 1 (Peer Evaluation Instructions)](./projects/ia_peer_evaluation_instructions.md)
+
+## Grades
+
+- [Midterm 1 results](./grades/Results-Test%201.pdf)
 
 ## Previous Tests/Exams
 
